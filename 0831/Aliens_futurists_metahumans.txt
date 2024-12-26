@@ -1,0 +1,149 @@
+\c
+Current Time: 2023-09-20 21:37  -0400 df \c
+Current Time: 2023-09-20 21:38  -0400 fd |
+Current Time: 2023-09-20 21:38  -0400 dd |
+Current Time: 2023-09-20 21:46  -0400 df |
+Current Time: 2023-09-20 21:49  -0400 ff |
+Current Time: 2023-09-20 21:54  -0400 fd |
+Current Time: 2023-09-20 22:07  -0400 dd |
+Current Time: 2023-09-20 22:08  -0400 ds |
+Current Time: 2023-09-20 22:10  -0400 cd |
+Current Time: 2023-09-20 22:31  -0400 dd |
+Current Time: 2023-09-21 17:00  -0400 leetcode |
+Current Time: 2023-09-21 18:11  -0400 3mi lookaround |
+Current Time: 2023-09-21 22:03  -0400 shellcode |
+Current Time: 2023-09-22 00:09  -0400 test |
+Current Time: 2023-09-22 01:15  -0400 kokogameproject |
+Current Time: 2023-09-22 14:06  -0400 178 |
+Current Time: 2023-09-22 14:35  -0400 haskel |
+Current Time: 2023-09-22 18:46  -0400 3t0 |
+Current Time: 2023-09-22 19:00  -0400 3t0 |
+Current Time: 2023-09-22 19:02  -0400 3t03 |
+Current Time: 2023-09-23 19:28  -0400 3t0reading |
+Current Time: 2023-09-23 20:22  -0400 3t0reading |
+Current Time: 2023-09-25 01:41  -0400 3t03 |
+Current Time: 2023-09-25 02:22  -0400 3t03 00:00 |
+Current Time: 2023-09-25 02:51  -0400 3t03 |
+Current Time: 2023-09-25 03:16  -0400 3t03 |
+	|
+Current Time: 2023-09-27 03:03  -0400 3mi3 |
+Current Time: 2023-09-27 03:28  -0400 genshin_stato |
+Current Time: 2023-09-27 17:41  -0400 3t03 |
+Current Time: 2023-09-27 18:23  -0400 4o03 |
+Current Time: 2023-09-27 19:13  -0400 4o03 |
+Current Time: 2023-09-27 19:51  -0400 3mi3 |
+Current Time: 2023-09-27 20:51  -0400 gc3 |
+Current Time: 2023-09-28 17:40  -0400 3t03 |
+Current Time: 2023-09-28 18:08  -0400 3t03 |
+Current Time: 2023-09-28 18:34  -0400 3t03 |
+Current Time: 2023-09-28 19:04  -0400 3t03 |
+|
+Current Time: 2023-09-28 21:12  -0400 3ra3 |
+Current Time: 2023-09-28 21:40  -0400 3t03 |
+Current Time: 2023-10-01 18:31  -0400 chromeext |
+Current Time: 2023-10-01 19:16  -0400 chromeext |
+Current Time: 2023-10-01 20:04  -0400 3gc3 |
+Current Time: 2023-10-01 20:41  -0400 3gc3 |
+Current Time: 2023-10-01 21:45  -0400 3t03 |
+Current Time: 2023-10-02 16:31  -0400 chromeext |
+Current Time: 2023-10-02 17:54  -0400 3t03 00:00 completed |
+Current Time: 2023-10-02 18:50  -0400 3t03 00:00 basis的定义，试图搞明白topology但是不回，目前lowerlimit，disc，indisc还没搞明白completed |
+Current Time: 2023-10-02 19:47  -0400 3t03copytextbook 00:00 人惊喜的发现Tf 拓扑的我认知的不一样，阅读第五周的讲义前两页大概读懂了百分之三十completed |
+Current Time: 2023-10-02 22:48  -0400 1ff3 |
+Current Time: 2023-10-03 20:21  -0400 chromeext |
+Current Time: 2023-10-03 20:35  -0400 chromeext 00:00 了解运行机制chromext试图安装课程环境未遂completed |
+Current Time: 2023-10-04 01:29  -0400 3t03 00:00 看了第二周的一些基本定义 感觉题目还是不会 complementary finite topology 是什么的问题很难解决，我觉得我还是应该去上课，因为不上课，我也灭有好好学习，或者创造自己completed |
+Current Time: 2023-10-04 03:53  -0400 3t03 00:00 看病白了几道题 到学校打印一下课件 一定要把定义搞清楚 很多分数能混到的 subspacetopology是什么completed |
+Current Time: 2023-10-04 16:27  -0400 3t03 |
+Current Time: 2023-10-04 16:59  -0400 3t03 00:00 打印topology4周的学习材料，基础概念复习到11页completed |
+Current Time: 2023-10-04 19:49  -0400 3t03 00:00 12页看了一半completed |
+Current Time: 2023-10-04 20:19  -0400 3t03 00:00 【没学完 忏悔completed |
+Current Time: 2023-10-04 22:15  -0400 3t03 00:00 131514completed |
+Current Time: 2023-10-04 22:59  -0400 3t03 |
+Current Time: 2023-10-13 19:34  -0400 3t03 |
+Current Time: 2023-10-13 20:05  -0400 3t03 00:00 说到底还是各种topolopy的定义明白了，但是性质还没明白completed |
+Current Time: 2023-10-13 22:40  -0400 3t03 00:00 做第二题 感觉心散了注意力不能集中 简称不想学习completed |
+Current Time: 2023-10-14 02:53  -0400 3t03 00:00 做了3 4做不出来 5还在看completed |
+Current Time: 2023-10-14 03:56  -0400 3t03 00:00 啊当时忘了记录了 我干了什么completed |
+Current Time: 2023-10-14 22:27  -0400 3mi3 |
+Current Time: 2023-10-14 23:07  -0400 理论书籍 00:00 从建国到胡风completed |
+Current Time: 2023-10-14 23:38  -0400 理论书籍 00:00 大跃进开始 太长了历史部分 但是写的真的很好completed |
+Current Time: 2023-10-15 00:09  -0400 理论书籍 00:00 看文革开头最后看一点吧completed |
+Current Time: 2023-10-15 00:39  -0400 理论书籍 00:00 太精彩了 把文革看完开头completed |
+Current Time: 2023-10-15 01:10  -0400 理论书籍 00:00 还是没看完completed |
+Current Time: 2023-10-15 01:40  -0400 理论书籍 00:00 基本了解了观点和偏向 后面的以后慢慢看completed |
+Current Time: 2023-10-15 02:43  -0400 mi3 |
+Current Time: 2023-10-15 02:55  -0400 3mi3 00:00 神了 但是开始了chatgpt的工作completed |
+Current Time: 2023-10-15 03:51  -0400 3mi3 00:00 我忏悔completed |
+Current Time: 2023-10-15 04:22  -0400 3mi3 00:00 抄完了很大一部分 chatgpt太强了completed |
+Current Time: 2023-10-15 06:46  -0400 整理考试时间和要做的事 |
+Current Time: 2023-10-15 22:55  -0400 3ra3 00:00 看了3ra3的10号pdf课件 感觉呃呃吹牛逼的课 但是不知道具体要干啥什么 感觉可以得高分completed |
+Current Time: 2023-10-16 03:53  -0400 政治小作文 00:00 才写了一点点 生气completed |
+Current Time: 2023-10-16 04:24  -0400 继续 00:00 基本写好了completed |
+Current Time: 2023-10-16 11:02  -0400 3ra3 00:00 我的正确率只有24吗completed |
+Current Time: 2023-10-16 12:24  -0400 3ra3 00:00 研究要是内容completed |
+Current Time: 2023-10-17 02:30  -0400 3ra 00:00 29completed |
+Current Time: 2023-10-17 03:20  -0400 3ra3 00:00 笑死 7pdfcompleted |
+Current Time: 2023-10-20 14:49  -0400 3mi3 00:00 睁开眼睛 就是学习 一天20个小时 加油 不行不能80分completed |
+Current Time: 2023-10-21 11:40  -0400 3mi3 00:00 completed 速通lambda cal 当然只是大概了解 接下来准备考试|
+Current Time: 2023-10-21 13:21  -0400 3mi3 00:00 目前看来 不题目做完需要两个钟completed |
+Current Time: 2023-10-22 04:15  -0400 3mi3 |
+Current Time: 2023-10-22 06:21  -0400 3mi3 00:00 做完了千割概念题，第一是看完经文，第二是复习完题目做题目 每个都要做万县管的题目completed |
+Current Time: 2023-10-22 10:45  -0400 3mi3 00:00 做题马上开始做题completed |
+Current Time: 2023-10-22 13:59  -0400 3gc3 |
+Current Time: 2023-10-23 01:32  -0400 3gc3 |
+Current Time: 2023-10-26 09:53  -0400 4o03 00:00 basic def of tabuleacompleted |
+Current Time: 2023-10-26 10:28  -0400 4o03 00:00 思考 嗯completed |
+Current Time: 2023-11-01 10:50  -0400 3t03 |
+Current Time: 2023-11-01 11:26  -0400 3t03 00:00 一个困境：因为有三件事要做，但是第一件卡住了三天，导致第二第三件也做不了，整个事情都卡主了。简而言之就是越狱计划很完美，第一步就失败了，上了大学因为自由度很高，所以就会发生这种讨厌的事。completed |
+Current Time: 2023-11-01 12:06  -0400 3t03 00:00 输了很久但是没注意奥 wangcheng1看2completed |
+Current Time: 2023-11-01 15:15  -0400 3t03 00:00 没写完2题 但是继续completed |
+Current Time: 2023-11-01 15:45  -0400 3t03 |
+Current Time: 2023-11-01 16:19  -0400 3t03 00:00 4completed |
+Current Time: 2023-11-01 17:10  -0400 3t03 00:00 4没琢磨明白completed |
+Current Time: 2023-11-03 17:41  -0400 3t03 00:00 没啥 做了第一题ass7 文件的搜索功能出了点小问题completed |
+Current Time: 2023-11-03 18:27  -0400 3t03 00:00 很多东西看不懂completed |
+Current Time: 2023-11-03 20:41  -0400 3t03 00:00 抄完第三题completed |
+Current Time: 2023-11-06 15:10  -0500 3gc3 00:00 读着色器completed |
+Current Time: 2023-11-06 16:33  -0500 3gc3 |
+Current Time: 2023-11-09 17:02  -0500 3t03 00:00 第一题 学的好慢completed |
+Current Time: 2023-11-09 17:35  -0500 3t03 00:00 2题太难了 没看懂completed |
+Current Time: 2023-11-09 22:58  -0500 3t03 |
+Current Time: 2023-11-12 17:31  -0500 4o03 |
+Current Time: 2023-11-12 17:33  -0500 4o03 |
+Current Time: 2023-11-13 17:52  -0500 4o03 00:00 first q of ass2completed |
+Current Time: 2023-11-14 16:34  -0500 3mi3 |
+Current Time: 2023-11-14 21:55  -0500 mi3 |
+Current Time: 2023-11-14 22:25  -0500 3mi3 |
+Current Time: 2023-11-15 14:42  -0500 3mi3 |
+Current Time: 2023-11-15 15:03  -0500 3mi3 00:00 azhecompleted |
+Current Time: 2023-11-15 15:44  -0500 3mi3 00:00 曹尼玛 我是个fwcompleted |
+Current Time: 2023-11-16 00:35  -0500 3mi3 00:00 breakcompleted |
+Current Time: 2023-11-16 01:40  -0500 3mi3 00:00 玩 没有学习completed |
+Current Time: 2023-11-16 02:21  -0500 3幂 |
+Current Time: 2023-11-16 17:07  -0500 3mi33gc3自由阅读 00:00 没啥 感觉知道怎么问问题了completed |
+Current Time: 2023-11-16 19:30  -0500 3mi3 00:00 嗯 我已经完全明白了completed |
+Current Time: 2023-11-17 22:34  -0500 3mi3 00:00 加油completed |
+Current Time: 2023-11-17 23:05  -0500 3mi3 |
+Current Time: 2023-11-18 01:27  -0500 3mi3 00:00 搞完了ski代码部分 很完美completed |
+Current Time: 2023-11-19 00:20  -0500 3mi3 |
+Current Time: 2023-11-19 18:33  -0500 3mi3 |
+Current Time: 2023-11-19 20:06  -0500 framework 00:00 写代码 该图片completed |
+Current Time: 2023-11-19 22:03  -0500 3mi3 00:00 干啥 haskell基础completed |
+Current Time: 2023-11-21 07:09  -0500 3t03 00:00 搞定了第一题completed |
+Current Time: 2023-11-27 19:06  -0500 3mi3 00:00 绝望了 重新整理了资料 难道作业只能挂了吗completed |
+Current Time: 2023-12-02 07:21  -0500 4o03 |
+Current Time: 2023-12-02 08:41  -0500 4o03 00:00 做了一题目 但是还是稍微玩了玩电脑completed |
+Current Time: 2023-12-02 12:09  -0500 4o03 |
+Current Time: 2023-12-04 03:14  -0500 4o03 00:00 加油 奋进completed |
+Current Time: 2023-12-04 12:44  -0500 3mi3 00:00 review the basis syntax type safety progress and presentationcompleted |
+Current Time: 2023-12-05 04:40  -0500 3mi3 00:00 阅读作业基本要求completed |
+Current Time: 2023-12-05 05:54  -0500 3mi3 |
+Current Time: 2023-12-08 16:02  -0500 3ra3 00:00 langfeicompleted |
+Current Time: 2023-12-09 08:27  -0500 3ra3 00:00 试卷复习completed |
+Current Time: 2023-12-09 10:44  -0500 3ra3 00:00 防止抵赖completed |
+Current Time: 2023-12-10 06:49  -0500 3mi3 00:00 浪费时间completed |
+Current Time: 2023-12-10 08:40  -0500 3mi3 |
+Current Time: 2023-12-10 15:19  -0500 3t03 00:00 做了作业 但是看不懂很多东西completed |
+Current Time: 2023-12-10 16:47  -0500 3t03 00:00 completed |
+Current Time: 2024-01-15 22:41  -0500 learningtest 00:00 
